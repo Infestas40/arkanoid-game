@@ -1,0 +1,267 @@
+.container{
+          width: 1028px;
+          height: 738px;
+          background-image: url("../../assets/elogio.jpg");
+          position: relative;
+          left: 300px;
+}
+
+.bloque{
+       width: 70px;
+       height: 20px;
+       background: red;
+       border-radius: 10px;
+       border: solid black 1px;
+       position: relative;   
+       top: 600px;
+       left: 450px;
+}
+
+.ball{
+       width: 18px;
+       height: 18px;
+       background: white;
+       border-radius: 200px;
+       border: solid black 1px;
+       position: relative;
+       top: 520px;
+       left: 410px;
+
+  }
+
+.hight-score{
+            position: relative;  
+            left: 500px;
+            top: 20px;
+            color: red;
+}
+
+.Live{
+     position: relative;  
+     left: 400px;
+     top: 3px;
+     color: red;  
+
+}
+
+.Gijon{
+       position: relative;  
+       left: 100px;
+       top: -14px;
+       color: red;  
+  
+  }
+
+  .Christian{
+       position: relative;  
+       left: 800px;
+       top: -32px;
+       color: red;  
+  
+  }
+
+.bloque1{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: 10px;
+       left: 3px;
+}
+
+.bloque2{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -12px;
+       left: 54px;
+}
+
+.bloque3{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -34px;
+       left: 105px;
+}
+
+.bloque4{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -56px;
+       left: 156px;
+}
+
+.bloque5{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -78px;
+       left: 207px;
+}
+
+.bloque6{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -100px;
+       left: 258px;
+}
+
+.bloque7{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -122px;
+       left: 309px;
+}
+
+.bloque8{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -144px;
+       left: 360px;
+}
+
+.bloque9{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -166px;
+       left: 411px;
+}
+
+.bloque10{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -188px;
+       left: 462px;
+}
+
+.bloque11{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -210px;
+       left: 513px;
+}
+
+.bloque12{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -232px;
+       left: 564px;
+}
+
+.bloque13{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -254px;
+       left: 615px;
+}
+
+.bloque14{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -276px;
+       left: 666px;
+}
+
+.bloque15{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -298px;
+       left: 717px;
+}
+
+.bloque16{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -320px;
+       left: 768px;
+}
+
+.bloque17{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -342px;
+       left: 819px;
+}
+
+.bloque18{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -364px;
+       left: 870px;
+}
+
+.bloque19{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -386px;
+       left: 921px;
+}
+
+.bloque20{
+       width: 50px;
+       height: 20px;
+       background: gray;
+       border: solid black 1px;
+       position: relative;   
+       top: -408px;
+       left: 972px;
+}
+
+
+@media (max-width: 100%){
+                    
+}
+
