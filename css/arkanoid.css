@@ -1,7 +1,7 @@
 .container{
           width: 1028px;
           height: 738px;
-          background-image: url("../../assets/elogio.jpg");
+          background-image: url("../assets/elogio.jpg");
           position: relative;
           left: 300px;
 }
@@ -15,6 +15,7 @@
        position: relative;   
        top: 600px;
        left: 450px;
+       transition: .7s;
 }
 
 .ball{
